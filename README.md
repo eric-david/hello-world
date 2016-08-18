@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+I've finally signed up for GitHub after resisting for far too long.
